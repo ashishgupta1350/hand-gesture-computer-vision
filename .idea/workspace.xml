@@ -17,7 +17,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/handthreshold.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1202">
+            <state relative-caret-position="-1142">
               <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -64,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="332" />
     <option name="y" value="27" />
     <option name="width" value="640" />
@@ -169,15 +169,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548069260365</updated>
-      <workItem from="1548069262060" duration="16831000" />
+      <workItem from="1548069262060" duration="17431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16831000" />
+    <option name="totallyTimeSpent" value="17431000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -227,7 +227,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/handthreshold.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1202">
+        <state relative-caret-position="-1142">
           <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
